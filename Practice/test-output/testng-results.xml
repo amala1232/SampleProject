@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13993" started-at="2018-07-07T20:41:12Z" finished-at="2018-07-07T20:41:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13993" started-at="2018-07-07T20:41:12Z" finished-at="2018-07-07T20:41:26Z">
+      <class name="testcases.NewTest">
+        <test-method status="PASS" signature="testNestedIfExample()[pri:0, instance:testcases.NewTest@7a3d45bd]" name="testNestedIfExample" duration-ms="13968" started-at="2018-07-07T20:41:12Z" finished-at="2018-07-07T20:41:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNestedIfExample -->
+      </class> <!-- testcases.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
